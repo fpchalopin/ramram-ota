@@ -1,0 +1,19 @@
+{
+  "version": "0.1.1",
+  "min_version": "0.1.0",
+  "changelog": "Optimisations batterie et veille basse consommation. Correction de l'estimation batterie du module 3.5B.",
+  "boards": {
+    "35b": {
+      "url": "https://fpchalopin.github.io/ramram-ota/firmware-0.1.1-35b.bin",
+      "size": 893776,
+      "sha256": "b9d7919c388d339cf6f4ebb427f2e1e60c5732d50e743859d3c921697f3c2df0",
+      "signature": "30460221008b8bf5f2d146f9b0a0a7b190c7f294f751dec7544f22bb60371badd98d8df99c022100abf186bdc410eb7fd05835e43ffa202f2e2ae6bb0ebe77c1071cdb2db05da8c1"
+    },
+    "190": {
+      "url": "https://fpchalopin.github.io/ramram-ota/firmware-0.1.1-190.bin",
+      "size": 867984,
+      "sha256": "13123081583e41660651954d7892f6b27cdfeab9711a5731dc1b818f93e861a6",
+      "signature": "30440220468a49be1dfc6bb3f495ff78ba8cdb834b48f5b3e7b3e697b89ae849f56d824b02205ea99020f0b914f9d2bcc9697490819f1c14d53d8d592c5134196ef4dfbdfa00"
+    }
+  }
+}
